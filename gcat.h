@@ -4,6 +4,7 @@ int gcat (char **args){
     printf("File Name is not entered \n");
     return 1;
   }
+  
   // fd == file descriptor
   int fd;
   char buffer[1024]; 
