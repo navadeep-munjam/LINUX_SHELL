@@ -20,7 +20,7 @@ BASIC-TERMINAL is a simple terminal emulator implemented in C. It supports basic
 ### Clone the Repository
 
 ```sh
-git clone https://github.com/yourusername/BASIC-TERMINAL.git
+git clone https://github.com/navadeep-munjam/BASIC-TERMINAL.git
 cd BASIC-TERMINAL
 make
 ./sh
